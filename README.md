@@ -81,8 +81,10 @@ print(result2)
 ```
 
 ## Output :
+### Inference 1:
 ![1AAI](https://github.com/Ishu-Vasanth/Ex2---AAI/assets/94154614/c029e33b-69ce-4880-83fb-4789d6f1a06a)
 
+### Inference 2:
 ![2AAI](https://github.com/Ishu-Vasanth/Ex2---AAI/assets/94154614/e2986ebc-bef6-4840-b075-20efe19521b9)
 
 ## Result :
