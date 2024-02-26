@@ -25,7 +25,7 @@ Perform exact inference using the defined evidence and query variables.<br>
 Print the results.<br>
 
 ## Program :
-<
+```
 #import required libraries
 
 from pgmpy.models import BayesianNetwork
@@ -77,8 +77,8 @@ result2 = inference.query(variables=[query_variable],evidence=evidence)
 
 
 #print result-----2
-print(result2)>
-
+print(result2)
+```
 
 ## Output :
 ![1AAI](https://github.com/Ishu-Vasanth/Ex2---AAI/assets/94154614/c029e33b-69ce-4880-83fb-4789d6f1a06a)
